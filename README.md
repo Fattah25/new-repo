@@ -1,8 +1,19 @@
-# Demo
+# Belajar Go Language
 
-belajar git dan github!
+Hal-hal penting yang perlu diketahui :
 
-## Subheader
-
-menggunakan clone untuk mengambil repository dari manapun seperti *github* ke *local machine*
-
+- Built-In Types
+- Variables 
+- Constant
+- Loops
+- Switch
+- Arrays
+- Slice
+- Maps
+- Range
+- Pointers
+- Structs
+- Interface
+- Function
+- Goroutines
+- Channels  
