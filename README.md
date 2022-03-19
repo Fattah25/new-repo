@@ -1,6 +1,8 @@
 # Belajar Go Language
 
-Hal-hal penting yang perlu diketahui :
+Hal-hal <mark>penting</mark> yang perlu diketahui :
+
+pergi kepasar <font color="#45f3e0">membeli buah</font> kelapa.
 
 - Built-In Types
 - Variables 
